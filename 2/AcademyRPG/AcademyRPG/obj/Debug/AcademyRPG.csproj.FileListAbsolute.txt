@@ -1,0 +1,4 @@
+C:\Users\Georgi\Desktop\TELERIK\C# OOP\prep\2013\25.03\2\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+C:\Users\Georgi\Desktop\TELERIK\C# OOP\prep\2013\25.03\2\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+C:\Users\Georgi\Desktop\TELERIK\C# OOP\prep\2013\25.03\2\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Users\Georgi\Desktop\TELERIK\C# OOP\prep\2013\25.03\2\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
